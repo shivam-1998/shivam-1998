@@ -10,7 +10,6 @@ https://camo.githubusercontent.com/a28122edfe36350f15d122e56fa9b884c21e864e/6874
 # Tools
 - Visual Studio Code
 - Git
-- Jira
 - Asana
 - Android Studio
 - XCode
